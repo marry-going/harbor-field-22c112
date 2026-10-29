@@ -1,1 +1,1 @@
-harmless protected canary
+protected canary under revoked symlink policy
