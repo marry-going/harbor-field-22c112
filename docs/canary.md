@@ -1,0 +1,3 @@
+# Canary
+
+Harmless documentation canary.
